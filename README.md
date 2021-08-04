@@ -1,2 +1,1 @@
-# cv-one
-My Personal Website
+A beginner's website made with HTML and CSS
